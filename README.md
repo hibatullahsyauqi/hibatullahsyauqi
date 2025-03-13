@@ -1,4 +1,4 @@
-<div style='text-align: right;'>
+<div align="right">
   ### Hello there 👋
 </div>
 
